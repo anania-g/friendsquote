@@ -1,0 +1,28 @@
+.image{
+
+
+}
+#character{
+    text-transform: capitalize;
+    color: #ced0ce;
+    text-align:right;
+    font-style: italic;
+}
+.imgg{
+width:auto;
+}
+body{
+    background-image: url(download.jfif) ;
+    background-repeat: stretch;
+    background-attachment: fixed;
+    background-position: center; 
+
+
+ 
+}
+.text{
+    font-size:x-large;
+    font-family:sans-serif;
+    font-style: italic;
+
+}
